@@ -1,18 +1,30 @@
-# Sales Data Analysis and Business Insights
+# 📊 Sales Data Analysis & Business Insights
 
-## Overview
-This project analyzes retail sales data to uncover trends, patterns, and actionable business insights using SQL and Python.
+## 📌 Project Overview
+This project focuses on analyzing retail sales data to uncover trends, patterns, and actionable business insights.  
+The analysis was performed using **Python, Pandas, SQL, and data visualization libraries**.
 
-## Tools Used
-- SQL
+## 🗂️ Dataset
+- Retail Superstore Sales Dataset
+- Contains order details, customer information, product categories, regions, and sales values
+
+## 🛠️ Tools & Technologies
 - Python (Pandas, NumPy)
-- Matplotlib
-- Seaborn
+- Matplotlib & Seaborn
+- SQL
+- Google Colab
+- GitHub
 
-## Project Structure
-- sql/        : SQL queries for analysis
-- notebooks/  : Python EDA notebooks
-- data/       : Dataset files
+## 🔍 Analysis Performed
+- Data cleaning and preprocessing
+- Date handling and time-based feature extraction
+- Exploratory Data Analysis (EDA)
+- Monthly sales trend analysis
+- Sales analysis by category and region
 
-## Objective
-To practice real-world data analysis skills and derive insights that support data-driven decision making.
+## 📈 Key Insights
+- Sales exhibit clear seasonal patterns across months.
+- Overall sales show a positive upward trend over time, indicating business growth.
+- Certain product categories and regions consistently contribute higher sales.
+
+## 📁 Project Structure
