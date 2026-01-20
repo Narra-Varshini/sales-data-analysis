@@ -62,3 +62,9 @@ This dataset is used in:
 
 Refer to the notebook:
 This folder contains datasets used for the sales data analysis project.
+
+---
+
+## 👩‍💻 Author
+Varshini Narra
+
